@@ -1,2 +1,2 @@
 # DesignPattern
-Learn DesignPattern for large-scale software development.
+Learning DesignPattern for large-scale software development.
